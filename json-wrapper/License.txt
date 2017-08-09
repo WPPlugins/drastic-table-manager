@@ -1,0 +1,6 @@
+http://www.boutell.com/scripts/jsonwrapper.html
+
+jsonwrapper itself is hereby released into the public domain. However, it is a
+simple wrapper around M. Migurski's PEAR JSON library, which has its own free 
+license. You could also install that from PEAR and change my wrapper to use the
+copy you pulled down from PEAR. See the tarfile for details. 
